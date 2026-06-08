@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Nikhil</h1>
-### Data Analytics | AI Automation | Machine Learning | Prompt Engineering | 
+### <h3 align = "center">Data Analytics | AI Automation | Machine Learning | Prompt Engineering | </h3>
 
 Transforming raw data into actionable insights and building intelligent solutions that solve real-world problems.
 
