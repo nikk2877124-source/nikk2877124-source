@@ -8,7 +8,7 @@ Transforming raw data into actionable insights and building intelligent solution
 ## 🌟 About Me
 
 Passionate Data Analyst and Machine Learning Enthusiast focused on transforming raw data into meaningful insights and intelligent solutions. Skilled in Python, SQL, Pandas, NumPy, Matplotlib, Machine Learning, and Data Visualization, with hands-on experience building recommendation systems, AI-powered applications, and data analytics projects.
-### 🔹 Areas of Interest
+#### 🔹 Areas of Interest
 
 - 📊 Data Analytics & Visualization
 - 🤖 Machine Learning
@@ -42,34 +42,17 @@ I'm always interested in collaborating on:
 
 ## 🛠️ Tech Stack
 
-### Programming & Development
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Data Analytics & Machine Learning
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)
-
-### Data Visualization & BI
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Cloud & Deployment
-
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-### Tools & Version Control
-
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
-### Creative Tools
-
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
