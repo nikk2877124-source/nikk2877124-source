@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nikhil Kumar<br><br>🚀 Passionate about **Data Analytics, Artificial Intelligence, Machine Learning, Prompt Engineering, and Backend Development**.<br><br>💡 I enjoy transforming raw data into meaningful insights and building intelligent solutions that solve real-world problems. My work focuses on developing data-driven applications, designing effective AI workflows, crafting high-quality prompts for generative AI systems, and creating scalable software solutions.<br><br>🔹 📊 Data Analytics & Visualization<br>🔹 🤖 Artificial Intelligence & Machine Learning<br>🔹 🧠 Prompt Engineering & Generative AI<br>🔹 🐍 Python Development<br>🔹 ⚙️ Backend Development<br>🔹 🗄️ Database Management<br>🔹 📈 Business Intelligence & Reporting<br>🔹 🧩 Problem Solving & Automation<br><br>🛠️ **Tech Stack:**<br>Python • Flask • MySQL • Pandas • NumPy • Matplotlib • Scikit-learn • Power BI • Git<br><br>🌱 Continuously learning and exploring advancements in AI, Data Science, Prompt Engineering, and Software Development to build innovative and impactful solutions.<br><br>📂 This GitHub profile showcases my projects, experiments, and practical implementations across Data Analytics, AI, Prompt Engineering, and Software Development.<br><br>🤝 Open to collaboration, innovative projects, and opportunities in Data Analytics, AI, and Technology.<br><br>📫 Let's connect and create something impactful together!<br>
 
-<!--
-**nikk2877124-source/nikk2877124-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikk56292) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikhil-kumar-844b3430b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikkum5643@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nikk2877124-source&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nikk2877124-source&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nikk2877124-source&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nikk2877124-source&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=nikk2877124-source&icon=0&color=0)](https://visitcount.itsvg.in)
+
