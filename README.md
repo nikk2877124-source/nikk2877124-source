@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Nikhil</h1>
 ### <h3 align = "center">Data Analytics | AI Automation | Machine Learning | Prompt Engineering | </h3>
 
-Transforming raw data into actionable insights and building intelligent solutions that solve real-world problems.
+<h5 align="center">Transforming raw data into actionable insights and building intelligent solutions that solve real-world problems.</h5>
 
 ---
 
@@ -79,7 +79,3 @@ I'm always interested in collaborating on:
 </p>
 
 ---
-
-### ⭐ Quote
-
-> "Turning Data into Insights, Ideas into Innovation, and Technology into Impact."
